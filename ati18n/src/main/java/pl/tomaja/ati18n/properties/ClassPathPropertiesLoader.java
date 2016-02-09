@@ -10,7 +10,7 @@ import pl.tomaja.ati18n.resolvers.bundle.BundleFilenameResolver;
 /**
  * @author atomaja
  */
-class ClassPathPropertiesLoader implements PropertiesLoader {
+public class ClassPathPropertiesLoader implements PropertiesLoader {
 
 	@Override
 	public Properties loadProperties(BundleFilenameResolver resolver, Locale locale) {
