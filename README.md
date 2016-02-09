@@ -1,2 +1,3 @@
 # ati18n
-Small I18N framework `asd`
+Small Java I18N framework. 
+Usage presented in *ati18n-test* project. 
